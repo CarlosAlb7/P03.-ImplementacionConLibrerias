@@ -1,0 +1,25 @@
+body{
+  
+   background: black;
+}
+.bodymaestro{
+    background-color: black;
+}
+.titulo{
+    color: white;
+    text-align: center;
+    margin: 40px;
+}
+.navderecha{
+    text-align: right;
+ 
+}
+.texto{
+    color: white;
+    text-align: center;
+    margin: 20px;
+}
+.gift1{
+    text-align: center;
+    margin: 10px;
+}
